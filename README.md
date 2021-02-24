@@ -1,9 +1,10 @@
-
+### Hi there 👋 I'm BofanQi
+## 喜欢写代码,学习新知识
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hlacer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hlacer/Hlacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
